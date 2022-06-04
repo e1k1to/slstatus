@@ -177,7 +177,6 @@
 					value = v;
 			}
 		}
-
 		return bprintf("%d", value);
 	}
 #else
